@@ -1,6 +1,6 @@
 # Miles-Program-Dev
 # Project Website
 <br>
-<link url=https://zcomer4d.wixsite.com/miles-program-dev>CLick Here<link>
+<a href=https://zcomer4d.wixsite.com/miles-program-dev>CLick Here<a />
 <br>
 *may be in progress until 2/23/2020
